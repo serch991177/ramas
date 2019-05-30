@@ -1,0 +1,1 @@
+el archivo .gitignore en git
